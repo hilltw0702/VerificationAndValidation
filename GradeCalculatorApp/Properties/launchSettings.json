@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GradeCalculatorApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\hillt\\Desktop\\testGrades.txt"
+    }
+  }
+}

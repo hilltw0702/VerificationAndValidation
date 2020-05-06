@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeCalculatorApp", "GradeCalculatorApp\GradeCalculatorApp.csproj", "{B5B824A2-36B8-4DFB-A3EA-A589AD5EF465}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeCalculator.Lib", "GradeCalculator.Logic\GradeCalculator.Lib.csproj", "{14DACFCA-0347-463B-AE86-53E7A629FA8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeCalculator.Lib.UnitTesting", "GradeCalculator.Models.Tests\GradeCalculator.Lib.UnitTesting.csproj", "{CFC08DBD-5C56-4805-8353-ABDD1905FE00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A464DB4D-B9C8-4C06-822D-10C404AB449C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B824A2-36B8-4DFB-A3EA-A589AD5EF465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B824A2-36B8-4DFB-A3EA-A589AD5EF465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B824A2-36B8-4DFB-A3EA-A589AD5EF465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B824A2-36B8-4DFB-A3EA-A589AD5EF465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DACFCA-0347-463B-AE86-53E7A629FA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DACFCA-0347-463B-AE86-53E7A629FA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DACFCA-0347-463B-AE86-53E7A629FA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DACFCA-0347-463B-AE86-53E7A629FA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC08DBD-5C56-4805-8353-ABDD1905FE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC08DBD-5C56-4805-8353-ABDD1905FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC08DBD-5C56-4805-8353-ABDD1905FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC08DBD-5C56-4805-8353-ABDD1905FE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5529317-06AB-44D1-932C-4B1BBAB17455}
+	EndGlobalSection
+EndGlobal

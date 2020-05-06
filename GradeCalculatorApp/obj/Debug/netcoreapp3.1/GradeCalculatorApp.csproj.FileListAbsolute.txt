@@ -1,0 +1,14 @@
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculatorApp.exe
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculatorApp.deps.json
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculatorApp.runtimeconfig.json
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculatorApp.runtimeconfig.dev.json
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculatorApp.dll
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculatorApp.pdb
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculator.Lib.dll
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\bin\Debug\netcoreapp3.1\GradeCalculator.Lib.pdb
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\obj\Debug\netcoreapp3.1\GradeCalculatorApp.csprojAssemblyReference.cache
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\obj\Debug\netcoreapp3.1\GradeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\obj\Debug\netcoreapp3.1\GradeCalculatorApp.AssemblyInfo.cs
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\obj\Debug\netcoreapp3.1\GradeCalculatorApp.csproj.CopyComplete
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\obj\Debug\netcoreapp3.1\GradeCalculatorApp.dll
+C:\Users\hillt\Source\Repos\GradeCalculator\GradeCalculatorApp\obj\Debug\netcoreapp3.1\GradeCalculatorApp.pdb

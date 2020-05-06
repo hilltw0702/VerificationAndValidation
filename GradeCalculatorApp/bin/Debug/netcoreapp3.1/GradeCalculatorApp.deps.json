@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GradeCalculatorApp/1.0.0": {
+        "dependencies": {
+          "GradeCalculator.Lib": "1.0.0"
+        },
+        "runtime": {
+          "GradeCalculatorApp.dll": {}
+        }
+      },
+      "GradeCalculator.Lib/1.0.0": {
+        "runtime": {
+          "GradeCalculator.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GradeCalculatorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GradeCalculator.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
